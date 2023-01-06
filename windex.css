@@ -1,5 +1,5 @@
 /*CSS RESET*/
-title, body, header, main, footer, div, img, aside, figure, figcaption, audio, navbar, h1, h2, h3, form, label, input, ul, li {
+title, body, header, main, footer, div, img, aside, figure, figcaption, audio, navbar, h1, h2, h3, form, label, input, ul, li, ol {
     margin: 0;
     padding: 0;
     border: 0;
@@ -36,4 +36,8 @@ strong {
 img {
     border-radius: 35%;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+li {
+    color: #169873
 }
