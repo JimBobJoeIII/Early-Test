@@ -1,0 +1,37 @@
+/*CSS RESET*/
+title, body, header, main, footer, div, img, aside, figure, figcaption, audio, navbar, h1, h2, h3, form, label, input, ul, li  {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #093338;
+    text-align: center;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #9E2B25;
+}
+
+footer {
+    padding: 2%;
+}
+h3 {
+    padding: 2%
+}
+
+strong {
+    color:yellow
+}
+
+img {
+    border-radius: 35%;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
