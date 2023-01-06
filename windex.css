@@ -1,12 +1,12 @@
 /*CSS RESET*/
-title, body, header, main, footer, div, img, aside, figure, figcaption, audio, navbar, h1, h2, h3, form, label, input, ul, li  {
+title, body, header, main, footer, div, img, aside, figure, figcaption, audio, navbar, h1, h2, h3, form, label, input, ul, li {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
 body {
-    background-color: #093338;
+    background-color:#001524;
     text-align: center;
     text-decoration: none;
     margin-left: auto;
@@ -17,18 +17,20 @@ table {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    color: #9E2B25;
+    color: #169873;
 }
 
 footer {
     padding: 2%;
 }
 h3 {
-    padding: 2%
+    color: #169873;
+    padding: 2%;
+    
 }
 
 strong {
-    color:yellow
+    color:#9EBD6E;
 }
 
 img {
